@@ -20,6 +20,7 @@ import Contact from './screens/contact.js';
 function App() {
   return(
     <div>
+      {/* passing components from screens to app.js */}
       <About />
       <Contact />
     </div>
@@ -43,4 +44,4 @@ export default App;
 
 //5 screens/contact.js created and ipmorting in app.js
 
-//6 contact and about js  fils added in app.js returning using div and calling both functions <About /> and <Contact />
+//6 contact and about js  fils added in app.js returning using div and calling both functions <About /> and <Contact /> passed as components
