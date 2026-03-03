@@ -23,3 +23,6 @@ export default App;
 //3
 //return <About />
 // imported About from screens so it can visibale in browser
+
+//4 basically this happend
+// screens folder created and about.js file created and inported in app.js
